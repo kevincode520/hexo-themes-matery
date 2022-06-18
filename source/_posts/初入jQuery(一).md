@@ -1,15 +1,15 @@
 ---
-title: 初入jQuery(上)
+title: 初入jQuery(一)
 author: 李学志
 img: medias/featureimages/5.jpg
 top: false
 cover: false
 toc: true
 mathjax: false
-summary: 初入jQuery(上)
-categories: 初入jQuery(上)
+summary: 初入jQuery(一)
+categories: 初入jQuery(一)
 tags:
-  - 初入jQuery(上)
+  - 初入jQuery(一)
 keywords: 李学志
 essay: false
 abbrlink: 40897
@@ -18,7 +18,7 @@ coverImg:
 password:
 ---
 
-# 初入jQuery(上)
+# 初入jQuery(一)
 
 在开始学习 jQuery 之前，应该对以下知识有基本的了解：
 

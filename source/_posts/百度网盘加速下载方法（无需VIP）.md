@@ -2,7 +2,7 @@
 title: 百度网盘加速下载方法（无需VIP）
 author: 李学志
 img: medias/featureimages/19.jpg
-top: false 
+top: false
 cover: false
 toc: true
 mathjax: false
@@ -22,13 +22,13 @@ password:
 
 B站寻找的方法亲测有用！！！
 
-[百度网盘加速下载方法]: https://www.bilibili.com/read/cv15103250
+百度网盘加速下载方法: https://www.bilibili.com/read/cv15103250
 
 利用NDM多线程下载，这里我用IDM代替
 
 附上IDM下载方法
 
-[破解版下载链接]: http://files.lxzcode520.xyz/
+破解版下载链接: http://files.lxzcode520.xyz/IDM/
 
 找到这个
 

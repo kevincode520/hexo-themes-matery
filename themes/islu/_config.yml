@@ -137,13 +137,13 @@ friendsCircle:
 # Whether to display the musics.
 # 是否在首页显示音乐.
 music:
-  enable: ture
+  enable: true
   title: # 非吸底模式有效
     enable: true
     show: CouldMusic
   server: tencent # require music platform: netease, tencent, kugou, xiami, baidu
   type: playlist # require song, playlist, album, search, artist
-  id: 1872327578 # require song id / playlist id / album id / search keyword
+  id: 1363948882 # require song id / playlist id / album id / search keyword
   fixed: true # 开启吸底模式
   autoplay: false # 是否自动播放
   theme: '#000'
@@ -187,7 +187,7 @@ logTest: 李学志
 # 首页 banner 中的第二行个人信息配置，留空即不启用
 socialLink:
   enable: true
-  github: https://github.com/Kevincode520
+  github: https://github.com/lixuezhi20
   twitter: https://twitter.com/Kevincode520
   bilibili: https://space.bilibili.com/179709415/
   rss: true # true、false
@@ -270,7 +270,7 @@ myProjects:
     Java EE:
       icon: fas fa-file-alt
       iconBackground: 'linear-gradient(to bottom right, #29B6F6 0%, #1E88E5 100%)'
-      url: https://github.com/kevincode520/Books-managment
+      url: https://github.com/lixuezhi20/Books-managment
       desc: Java写的后台管理项目
 
 # config my skills informations in about page.
@@ -359,7 +359,7 @@ valine:
 # 配置是否在 header 中显示 fork me on github 的图标，默认为true，你可以修改为你的仓库地址.
 githubLink:
   enable: true
-  url: https://github.com/kevincode520
+  url: https://github.com/lixuezhi20
   title: Fork Me
 
 # The password verification feature of read post. To use this feature,
@@ -530,8 +530,8 @@ subtitle:
   typeSpeed: 100 # 打字速度
   backSpeed: 50 # 删除速度
   sub:
-    - 不要把青春困在爱情里，我要永远自由。
-    - Don't trap youth in love, I want to be free forever..
+    - 人生就是一场旅行，不在乎目的地，在乎的应该是沿途的风景以及看风景的心情。
+    - Life is a journey, not the destination,but the scenery along the should be and the mood at the view.
 
     # 人生就是一场旅行，不在乎目的地，在乎的应该是沿途的风景以及看风景的心情。
     # - Life is a journey, not the destination,but the scenery along the should be and the mood at the view.
