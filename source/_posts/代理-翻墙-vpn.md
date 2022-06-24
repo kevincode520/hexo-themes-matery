@@ -57,7 +57,7 @@ Project V 是一个工具集合，它可以帮助你打造专属的基础通信�
 [云上云](https://www.quezi.cc/)
 [魔戒](https://mojie.me/)
 
-`我的魔戒邀请码:` https://www.mojie.cyou/#/register?code=3krh38P6
+`我的魔戒邀请码:` https://www.mojie.cyou/#/register?code=kejdnQ5y
 
 ```
 云上云，魔戒(二个还不错的机场)
